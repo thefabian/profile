@@ -97,3 +97,27 @@ td {
 .img-padding {
   padding-top: 20px;
 }
+
+#sidebar {
+  background-color: #374046;
+  position: fixed;
+  width: 150px;
+  left: 0;
+  top: 0;
+  bottom: 0;
+}
+
+#page-content {
+  margin-left: 150px;
+}
+
+#sidebar ul {
+  display: block;
+  list-style: none;
+  padding: 0px;
+}
+
+#sidebar li {
+  padding-top: 25px;
+  padding-bottom: 25px;
+}
