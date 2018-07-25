@@ -1,0 +1,99 @@
+body {
+  background-color: #F2F2F2;
+  font-family: 'Open Sans', sans-serif;
+  color: #888888;
+  font-size: 14px;
+  line-height: 1.5em;
+  text-align: center;
+}
+
+h1 {
+  color: #B24240;
+  font-family: 'Montserrat', sans-serif;
+  font-size: 24px;
+  line-height: 1.5em;
+}
+
+h2 {
+  font-family: 'Montserrat', sans-serif;
+  font-weight: 400;
+  font-size: 20px;
+  line-height: 1.5em;
+}
+
+h3 {
+  font-family: 'Montserrat', sans-serif;
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 1.5em;
+}
+
+a {
+  color: #888888;
+  text-decoration: none;
+  line-height: 2.0em;
+}
+
+a:hover{
+  color: #B24240;
+}
+
+img {
+  width: 150px;
+}
+
+i {
+  font-size: 24px;
+}
+
+td {
+  vertical-align: top;
+}
+
+.container {
+  width: 600px;
+  margin: 0 auto;
+}
+
+.card {
+  background-color: #FFFFFF;
+  border-radius: 3px;
+  box-shadow: 1px 1px 2px 0px rgba(0, 0, 0, 0.1);
+  padding: 30px;
+  margin-bottom: 30px;
+}
+
+.img-rounded {
+  border-radius: 50%;
+  border: 5px solid;
+  border-color: #DEDEDE;
+}
+
+.text-justify {
+  text-align: justify;
+}
+
+.list-inline > li {
+  display: inline-block;
+  padding: 0px 20px;
+}
+
+.list-inline {
+  padding-left: 0px;
+}
+
+.img-medium {
+  width: 125px;
+}
+
+.padding-right {
+  padding: 0px 30px 0px 0px;
+}
+
+.text-left {
+  text-align: left;
+}
+
+.img-padding {
+  padding-top: 20px;
+}
